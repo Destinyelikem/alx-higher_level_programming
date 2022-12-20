@@ -5,10 +5,3 @@ def uppercase(str):
             i = chr(ord(i) - 32)
         print("{}".format(i), end="")
     print()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
